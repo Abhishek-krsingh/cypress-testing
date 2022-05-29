@@ -45,7 +45,6 @@ describe('Validate 10 records were retured in Get API', ()=>{
         })
     })
 
-
 // Assert that the user “Mrs. Dennis Schulist” is contained in the list using query String
 describe('Validate particular data in the response', ()=>{
 
