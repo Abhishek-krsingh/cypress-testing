@@ -1,0 +1,14 @@
+{
+  "name": "cypresspractice",
+  "version": "1.0.0",
+  "description": "This proj is for Laybuy testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Abhishek Kumar Singh",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^9.7.0"
+  }
+}

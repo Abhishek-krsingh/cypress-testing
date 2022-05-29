@@ -1,0 +1,6 @@
+This project is for LAYBUY Technical Evaluation. 
+Porject is implemented Using Cypress & Jest, to simple automated test to satisfy the tests mentioned in Scripts
+
+1) Cypress is installed locally as a dev dependency for the project, so no need to install the cypress again to run the tests. 
+
+Both the Scenarios are implement by using Cypress.io
